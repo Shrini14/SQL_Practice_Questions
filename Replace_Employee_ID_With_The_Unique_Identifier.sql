@@ -11,6 +11,7 @@ EmployeeUNI(id, unique_id)
 Task:
 Show the unique ID of each employee.
 If an employee does not have a unique ID, display NULL.
+
 */
 
 SELECT 
